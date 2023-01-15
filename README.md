@@ -29,3 +29,10 @@ This image may take a few minutes to refresh.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+## INSTRUCTIONS FOR MICROBIT
+
+Main micro:bit sends digits of pi while other 10 Microbits (in the same radio group) are counting digits (one Microbit for each digit: 0,1,2,...,9).  
+This is the program for Microbit which is counting number of zeros.
+
